@@ -7,6 +7,6 @@ public class SomaSimples{
     a = 1; 
     b = 2;
     int c = a+b;
-    System.out.print(c);
+    System.out.print(c); 
   }
 }
